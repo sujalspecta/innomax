@@ -16,7 +16,7 @@
     "isotope-layout": "^3.0.6",
     "react": "^19.3.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
-    "react-awesome-reveal": "^4.2.5",
+    "react-awesome-reveal": "^4.3.1",
     "react-countup": "^6.4.2",
     "react-datepicker": "^6.9.0",
     "react-dom": "^19.3.0",
