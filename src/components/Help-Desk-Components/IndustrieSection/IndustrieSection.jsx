@@ -1,6 +1,6 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination, Autoplay } from "swiper";
+import { Pagination, Autoplay } from "swiper/modules";
 import "swiper/swiper-bundle.css";
 import hicon from '../../../images/icon/medal-star-black.svg'
 import sIcon1 from '../../../images/award/hd-img01.png'

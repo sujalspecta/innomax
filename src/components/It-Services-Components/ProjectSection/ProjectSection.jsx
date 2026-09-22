@@ -2,7 +2,7 @@ import React from "react";
 import Project from '../../../api/project'
 import { Link } from "react-router-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination, Autoplay } from "swiper";
+import { Pagination, Autoplay } from "swiper/modules";
 import "swiper/swiper-bundle.css";
 import { Fade } from "react-awesome-reveal";
 

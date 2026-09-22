@@ -1,5 +1,5 @@
 import { useRef, useEffect } from 'react';
-import { Navigation } from 'swiper';
+import { Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Link } from 'react-router-dom'
 import blogs from '../../api/blogs'

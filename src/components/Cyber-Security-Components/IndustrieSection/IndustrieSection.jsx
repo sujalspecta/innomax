@@ -2,7 +2,7 @@ import React from 'react';
 import { Fade } from "react-awesome-reveal";
 import { Link } from "react-router-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination, Autoplay } from "swiper";
+import { Pagination, Autoplay } from "swiper/modules";
 import "swiper/swiper-bundle.css";
 import hicon from '../../../images/icon/magic02.svg'
 import sIcon1 from '../../../images/icon/ftd_01.svg'
