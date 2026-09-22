@@ -4,7 +4,7 @@
   "homepage": "https://innomax-react.xpressbuddy.com",
   "private": true,
   "dependencies": {
-    "@emotion/react": "^11.10.5",
+    "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.10.5",
     "@mui/material": "^5.11.0",
     "@mui/styled-engine-sc": "^5.11.0",
